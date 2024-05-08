@@ -26,8 +26,8 @@ Use Otsu's method to segment the image and display the results.
 
 ## Program
 
-#### DEVELOPED BY :ONTEDDU SIRISHA
-#### Register number: 212222230103
+#### DEVELOPED BY :A K MOHAN RAJ
+#### Register number: 212221230064
 ```python
 # Load the necessary packages
 # Load the necessary packages
